@@ -21,12 +21,12 @@ Learnt Python (Classroom Course, 2 MIT courses on edx) and Git.
 <span id="e"> - Sophomore: </span>
 Learnt IoT & Embedded Programming
 Learnt Android App Development in Java
-Finished Project - Smart Home Automation & Security [<a href="https://link.springer.com/chapter/10.1007/978-981-32-9585-8_10">Published Conference Paper</a>]
+Finished Project - Smart Home Automation & Security [<a target="_blank" href="https://link.springer.com/chapter/10.1007/978-981-32-9585-8_10">Published Conference Paper</a>]
 
 <span id="e"> - Junior: </span>
 Learnt about Networking protocols, communication systems
 Finished Project - Audio & Video Monitoring System
-Published Patent - <a href="https://www.researchgate.net/publication/318452069_SMART_IMPERCEPTIBLE_DOOR_CLOSING_SYSTEMS_WITH_INTEGRATED_MONITORING_DEVICES">Smart Imperceptible Door closing Systems with Integrated Monitoring </a>
+Published Patent - <a target="_blank" href="https://www.researchgate.net/publication/318452069_SMART_IMPERCEPTIBLE_DOOR_CLOSING_SYSTEMS_WITH_INTEGRATED_MONITORING_DEVICES">Smart Imperceptible Door closing Systems with Integrated Monitoring </a>
 Learnt Data Science & Visualization in R & Python
 Internship at Valiance Solutions
 
@@ -34,13 +34,13 @@ Internship at Valiance Solutions
 Started learning Machine Learning (Completed the famous Andrew NG's course and others)
 Completed courses on CNNs, Deep Learning
 Final Year thesis on Machine Learning and Signal Processing based Smart Disease Diagnosis
-Published <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482518301598">Journal Paper</a> on diagnosis of sleep apnea using signal processing and ML.
+Published <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0010482518301598">Journal Paper</a> on diagnosis of sleep apnea using signal processing and ML.
 Placed at Dosepack, Meditab Group of Companies.
 
 <span id="e">-Journey @Dosepack:</span>
 Learnt design patterns, advanced data structures and algorithms
 Learnt Reinforcement Learning & Game Theory basics [CS188, CS294]
-Worked on <a href="https://github.com/DosepackAIR/MARL-DPP">Multi Agent Reinforcement Learning for Dense Path Planning</a> [Note: The open source version is a shorter version of the actual.]
+Worked on <a target="_blank" href="https://github.com/DosepackAIR/MARL-DPP">Multi Agent Reinforcement Learning for Dense Path Planning</a> [Note: The open source version is a shorter version of the actual.]
 Integrated this with our product, Learnt about RestAPI development, Database, WSGI/ASGI servers.
 Worked on robotic system's central server which used FastAPI (prior CherryPy), Peewee, MySQL
 Learnt Cron jobs, bash programming, docker, kubernetes basics
@@ -56,7 +56,7 @@ Want to collaborate?
 Want to work with me?
 
 Send me a Hi! My DMs are and will always be open. I love connecting with people.
-[<a href="https://twitter.com/shreyansh_ag">Twitter</a>] [<a href="https://github.com/shreyansh96">Github</a>] [<a href="https://linkedin.com/shreyanshagarwal">Linkedin</a>] [<a href="https://www.codingame.com/profile/7b66d927fcf49c4d67443151efef64c66757404
+[<a target="_blank" target="_blank" href="https://twitter.com/shreyansh_ag">Twitter</a>] [<a target="_blank" href="https://github.com/shreyansh96">Github</a>] [<a target="_blank" href="https://linkedin.com/shreyanshagarwal">Linkedin</a>] [<a target="_blank" href="https://www.codingame.com/profile/7b66d927fcf49c4d67443151efef64c66757404
 ">CodinGame</a>]
 
 Cheerio!!
