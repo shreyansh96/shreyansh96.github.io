@@ -1,8 +1,8 @@
-__pycache__/
+__pycache__
 *.py[cod]
 *$py.class
-.DS_Store/
-.vscode/
-venv/
+.DS_Store
+.vscode
+venv
 *.log
-.idea/
+.idea
