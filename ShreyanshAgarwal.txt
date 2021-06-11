@@ -8,48 +8,9 @@ Update Successful
 
 Hey There! I am Shreyansh Agarwal.
 
-Experienced Backend Developer.
-I am not just the usual backend developer, I am equipped with AI.
+Full Stack Developer.
 
-<span id="b"> My Programming Journey</span>
-
-My journey started after I got enrolled in for B.Tech in Electrical Engineering.
-
-<span id="e"> - Freshman: </span>
-Learnt Python (Classroom Course, 2 MIT courses on edx) and Git.
-
-<span id="e"> - Sophomore: </span>
-Learnt IoT & Embedded Programming
-Learnt Android App Development in Java
-Finished Project - Smart Home Automation & Security [<a target="_blank" href="https://link.springer.com/chapter/10.1007/978-981-32-9585-8_10">Published Conference Paper</a>]
-
-<span id="e"> - Junior: </span>
-Learnt about Networking protocols, communication systems
-Finished Project - Audio & Video Monitoring System
-Published Patent - <a target="_blank" href="https://www.researchgate.net/publication/318452069_SMART_IMPERCEPTIBLE_DOOR_CLOSING_SYSTEMS_WITH_INTEGRATED_MONITORING_DEVICES">Smart Imperceptible Door closing Systems with Integrated Monitoring </a>
-Learnt Data Science & Visualization in R & Python
-Internship at Valiance Solutions
-
-<span id="e"> - Senior: </span>
-Started learning Machine Learning (Completed the famous Andrew NG's course and others)
-Completed courses on CNNs, Deep Learning
-Final Year thesis on Machine Learning and Signal Processing based Smart Disease Diagnosis
-Published <a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0010482518301598">Journal Paper</a> on diagnosis of sleep apnea using signal processing and ML.
-Placed at Dosepack, Meditab Group of Companies.
-
-<span id="e">-Journey @Dosepack:</span>
-Learnt design patterns, advanced data structures and algorithms
-Learnt Reinforcement Learning & Game Theory basics [CS188, CS294]
-Worked on <a target="_blank" href="https://github.com/DosepackAIR/MARL-DPP">Multi Agent Reinforcement Learning for Dense Path Planning</a> [Note: The open source version is a shorter version of the actual.]
-Integrated this with our product, Learnt about RestAPI development, Database, WSGI/ASGI servers.
-Worked on robotic system's central server which used FastAPI (prior CherryPy), Peewee, MySQL
-Learnt Cron jobs, bash programming, docker, kubernetes basics
-Explored & worked on Simultaneous Localization And Mapping.
-Developed on the go Face Recognition System.
-Working on Automated Video Surveillance and Tracking project.
-Learnt Javascript & Typescript.
-
-This is just a brief part of my whole journey.
+More details to be updated soon!
 
 Want to know more about me?
 Want to collaborate?
